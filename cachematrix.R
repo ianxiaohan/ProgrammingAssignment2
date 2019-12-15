@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## My functions can do the inverse of a Matrix
 
-## Write a short comment describing this function
+## This function creat a matrix object to find out the inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
